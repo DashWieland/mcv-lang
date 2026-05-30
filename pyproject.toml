@@ -1,0 +1,36 @@
+[project]
+name = "mcv-lang"
+version = "0.1.0"
+description = "An esoteric, Turing-complete programming language written only in the letters M, C and V, from Borges's Library of Babel."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Dash Wieland" }]
+keywords = ["esolang", "esoteric", "borges", "library-of-babel", "whitespace", "interpreter"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Interpreters",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/dashw/mcv"
+Repository = "https://github.com/dashw/mcv"
+
+[project.scripts]
+mcv = "mcv.cli:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["mcv"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
