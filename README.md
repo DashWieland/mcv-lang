@@ -76,7 +76,7 @@ pip install mcv-lang
 Or from a clone:
 
 ```bash
-git clone https://github.com/dashw/mcv && cd mcv
+git clone https://github.com/DashWieland/mcv-lang && cd mcv-lang
 pip install -e .
 ```
 

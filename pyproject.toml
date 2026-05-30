@@ -16,8 +16,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/dashw/mcv"
-Repository = "https://github.com/dashw/mcv"
+Homepage = "https://github.com/DashWieland/mcv-lang"
+Repository = "https://github.com/DashWieland/mcv-lang"
 
 [project.scripts]
 mcv = "mcv.cli:main"
