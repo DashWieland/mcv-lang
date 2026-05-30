@@ -58,11 +58,28 @@ string of letters and the perfectly ordinary arithmetic it performs.
 
 Every valid MCV program is, by definition, a string of M's, C's, and V's — which
 means every valid MCV program already exists, in full, on some shelf in the
-Library of Babel. We did not *write* the program above so much as *locate* it.
-You can confirm this yourself: paste the source into the search box at
-[libraryofbabel.info](https://libraryofbabel.info) and it will hand you the
-hexagon, wall, shelf, volume, and page where the book has sat, untouched, since
-before the language existed.
+Library of Babel. We did not *write* these programs so much as *locate* them.
+
+Here is [`examples/fibonacci.mcv`](examples/fibonacci.mcv), the program that
+prints the first ten Fibonacci numbers:
+
+```
+MMMMVMMMMVCCMMMMCVMMMCVCCMMMMCMVMMMCMCMVCCMVMMMMCMMMCMVCCCVCMMMVMMMMVCCCCVMCMMMCMCMVCVMMMMMMVCCCMMMCVCCCCMMMMMMMVMMMCVCCCCCMMMMCVMCCCCMMMMCMVMMMCMVCCCMMMCVCMMCCCMVMVMMCVMMMMVVVV
+```
+
+A wall of inalterable MCV's — exactly the sort of thing the narrator's father
+found and dismissed. Paste it into the search box at
+[libraryofbabel.info](https://libraryofbabel.info/search.html), though, and the
+Library hands back where the book lives:
+
+> **Title:** *g.v..fhx*, **page 201**
+> **Hexagon** `1sd0gzhy76lw0muc8ebz1b0sxs5xlw…` · **Wall 2 · Shelf 2 · Volume 12**
+
+It has sat on that shelf, untouched, since before the language existed — since
+before Python, since before Borges wrote the story that named it. We only
+decoded it. (The hexagon's address alone runs to hundreds of characters; the
+Library is not economical. Search the source yourself and it will reproduce the
+location in full.)
 
 The narrator's father found 410 pages of inalterable MCV's and saw nothing in
 them. He was holding a library of programs and could not run a single one.
