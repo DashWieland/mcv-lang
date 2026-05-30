@@ -1,16 +1,15 @@
 # MCV
 
-> "...a book my father once found in a hexagon in circuit fifteen ninety-four
-> which was composed of the letters M C V, perversely repeated from the first
-> line to the last."
+> One which my father saw in a hexagon on circuit fifteen ninety-four was made
+> up of the letters MCV, perversely repeated from the first line to the last.
 >
-> "...these phrases, at first glance incoherent, can no doubt be justified in a
-> cryptographical or allegorical manner... I cannot combine certain letters, as
-> *dhcmrlchtdj*, which the divine Library has not foreseen, and which in one of
-> its secret languages do not contain some terrible meaning. No one can
-> articulate a syllable which is not full of tenderness and fear..."
+> I cannot combine some characters *dhcmrlchtdj* which the divine Library has
+> not foreseen and which in one of its secret tongues do not contain a terrible
+> meaning. No one can articulate a syllable which is not filled with tenderness
+> and fear, which is not, in one of these languages, the powerful name of a god.
 >
-> — Jorge Luis Borges, *The Library of Babel* (1941)
+> — Jorge Luis Borges, *The Library of Babel* (1941); trans. James E. Irby,
+> *Labyrinths* (1962)
 
 The narrator concludes that "four hundred and ten pages of inalterable MCV's
 cannot correspond to any language, no matter how dialectical or rudimentary it
